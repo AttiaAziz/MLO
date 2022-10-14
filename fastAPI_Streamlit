@@ -1,0 +1,14 @@
+pip install uvicorn
+Pip install streamlit 
+Pip install fastapi
+
+Consommateur API : Postman 
+
+
+Install docker + dockercompose + docker desktop 
+Tutorial
+https://www.youtube.com/watch?v=3c-iBn73dDE&t=785s
+
+
+uvicorn main:app --reload
+streamlit run main.py --server.port 81
